@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sadman Sakib
+# Hi there, I'm Sadman Sakib 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/SakibDev?logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
 
