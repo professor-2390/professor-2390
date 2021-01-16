@@ -45,6 +45,9 @@
 <!--Twitter-->
 [<img align="left" alt="sadman | facebook" width="35px" src="https://img.icons8.com/doodle/45/000000/twitter.png" />][twitter]
 
+<!--Linkedin-->
+[<img align="left" alt="sadman | facebook" width="35px" src="https://img.icons8.com/doodle/45/000000/linkedin.png" />][lioke]
+
 <br />
 <br />
 
@@ -73,8 +76,7 @@
 
 [instagram]: https://www.instagram.com/gamer_x122/
 [twitter]: https://twitter.com/SakibDev
-
-
+[lioke]: https://www.linkedin.com/in/sadman-sakib-a5a337204/
 
 <!-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadman-Sakib2234&theme=radical&hide_langs_below=1&layout=compact" />
