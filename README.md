@@ -77,5 +77,3 @@
 [twitter]: https://twitter.com/SakibDev
 [lioke]: https://www.linkedin.com/in/sadman-sakib-a5a337204/
 
-</p>
-
