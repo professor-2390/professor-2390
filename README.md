@@ -1,7 +1,7 @@
 # Hi there, I'm Sadman Sakib 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/SakibDev?logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
-<a href="https://dev.to/sadmansakib2234">![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+<a href="https://dev.to/sadmansakib2234">![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=black)</a>
 
 ## I'm a Student, and Developer!!
 - 🔭 I'm currently working on personal projects
@@ -60,7 +60,6 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
   <!--START_SECTION:activity-->
 
   <!--END_SECTION:activity-->
