@@ -48,9 +48,6 @@
 <!--Linkedin-->
 [<img align="left" alt="sadman | facebook" width="35px" src="https://img.icons8.com/doodle/45/000000/linkedin.png" />][lioke]
 
-<!--Dev.to-->
-[<img align="left" alt="sadman | facebook" width="35px" src="https://img.icons8.com/doodle/45/000000/devto.png" />][lioke]
-
 <br />
 <br />
 
