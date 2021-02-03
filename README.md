@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"/>
 
@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-### Connect with me:
+### ✉️ Find me on:
 
 <!--Instagram-->
 [<img align="left" alt="sadman | Instagram" width="35px" src="https://img.icons8.com/fluent/45/000000/instagram-new.png" />][instagram]
@@ -51,19 +51,15 @@
 <br />
 <br />
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
-
-  <!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
