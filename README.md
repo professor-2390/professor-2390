@@ -57,12 +57,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sadman-Sakib2234&show_icons=true&hide_border=true&theme=radical" />
 
-  <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sadman-Sakib2234&show_icons=true&hide_border=true&theme=radical" />
 
-</details>
 
 
 [instagram]: https://www.instagram.com/gamer_x122/
