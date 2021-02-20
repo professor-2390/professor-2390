@@ -57,7 +57,12 @@
 
 ---
 
-<img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sadman-Sakib2234&show_icons=true&hide_border=true&theme=radical" />
+<details>
+  <summary>:zap: Github Stats</summary>
+    <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sadman-Sakib2234&show_icons=true&hide_border=true&theme=radical" />
+</details>
+
+
 
 
 
