@@ -56,13 +56,14 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ---
+<p align="cente">
 
-<details>
-  <summary>:zap: Github Stats</summary>
-    <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sadman-Sakib2234&show_icons=true&hide_border=true&theme=radical" />
-</details>
+<img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sadman-Sakib2234&show_icons=true&hide_border=true&theme=radical" />
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadman-Sakib2234&layout=compact&theme=synthwave"/>
+
+</p>
 
 
 
