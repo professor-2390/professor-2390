@@ -62,12 +62,7 @@
     <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sadman-Sakib2234&show_icons=true&hide_border=true&theme=radical" />
 </details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadman-Sakib2234&layout=compact&theme=synthwave"/>
-</details>
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadman-Sakib2234&layout=compact&theme=synthwave"/>
 
 
 
