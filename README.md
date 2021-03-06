@@ -57,6 +57,12 @@
 
 # Latest Blog Posts
 <!--START_SECTION:activity--> 
+1. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
+2. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
+3. ❗️ Opened issue [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
+4. 🎉 Merged PR [#1](https://github.com/Sadman-Sakib2234/snow-os/pull/1) in [Sadman-Sakib2234/snow-os](https://github.com/Sadman-Sakib2234/snow-os)
+5. 💪 Opened PR [#1](https://github.com/Sadman-Sakib2234/snow-os/pull/1) in [Sadman-Sakib2234/snow-os](https://github.com/Sadman-Sakib2234/snow-os)
+<!--END_SECTION:activity-->
 
 ---
 <details>
