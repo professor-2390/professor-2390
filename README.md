@@ -55,6 +55,9 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+# Latest Blog Posts
+<!--START_SECTION:activity--> 
+
 ---
 <details>
   <summary>
@@ -64,7 +67,7 @@
 
 </details>
 
-<!--START_SECTION:activity--> 
+
 
 
 
