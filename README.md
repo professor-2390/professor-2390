@@ -39,7 +39,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-sadman-sakib2234.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://sadman-sakib2234-spotify-playing-github.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### ✉️ Find me on:
 
