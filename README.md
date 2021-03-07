@@ -39,7 +39,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](novatorem-lime-delta.vercel.app/api/spotify.py)](https://open.spotify.com/user/ThegamerX)
+[![Spotify](novatorem-git-master-sadman-sakib2234.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ThegamerX)
 
 ### ✉️ Find me on:
 
