@@ -39,7 +39,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="novatorem-sadman-sakib2234.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ThegamerX)
+[![Spotify](novatorem-sadman-sakib2234.vercel.app/api/spotify)](https://open.spotify.com/user/ThegamerX)
 
 ### ✉️ Find me on:
 
