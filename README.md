@@ -39,7 +39,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://vercel.com/sadman-sakib2234/novatorem/GRCkb1W2a3tekmJq8HFtZZgPS83E/api/spotify)](https://open.spotify.com/user/TheGamerX)
+[![Spotify](sadman-sakib2234-spotify-playing-github.vercel.app/api/spotify)](https://open.spotify.com/user/TheGamerX)
 
 ### ✉️ Find me on:
 
