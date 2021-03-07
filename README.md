@@ -57,6 +57,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make a digital greeting clock using javascript](https://dev.to/sadmansakib2234/how-to-make-a-digital-greeting-clock-using-javascript-2dji)
+- [How to make a random password generator using javascript](https://dev.to/sadmansakib2234/how-to-make-a-random-password-generator-using-javascript-2bae)
+- [How to make a weather app in React using openweather api](https://dev.to/sadmansakib2234/how-to-make-a-weather-app-in-react-using-openweather-api-dif)
+- [Make a progress bar in terminal using python](https://dev.to/sadmansakib2234/make-a-progress-bar-in-terminal-using-python-fo8)
+- [Motivational Quotes App in React](https://dev.to/sadmansakib2234/motivational-quotes-app-in-react-3djh)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/sadmansakib2234)
