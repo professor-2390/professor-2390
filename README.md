@@ -55,6 +55,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to make a digital greeting clock using javascript](https://dev.to/sadmansakib2234/how-to-make-a-digital-greeting-clock-using-javascript-2dji)
