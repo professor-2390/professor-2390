@@ -55,16 +55,16 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-# Latest Blog Posts
-<!--START_SECTION:activity--> 
-1. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
-2. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
-3. ❗️ Opened issue [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
-4. 🎉 Merged PR [#1](https://github.com/Sadman-Sakib2234/snow-os/pull/1) in [Sadman-Sakib2234/snow-os](https://github.com/Sadman-Sakib2234/snow-os)
-5. 💪 Opened PR [#1](https://github.com/Sadman-Sakib2234/snow-os/pull/1) in [Sadman-Sakib2234/snow-os](https://github.com/Sadman-Sakib2234/snow-os)
-<!--END_SECTION:activity-->
+
 
 ---
+<details>
+  <summary>
+    :zap:  Recent GitHub Activity
+  </summary>
+<!--START_SECTION:activity--> 
+
+</details>
 <details>
   <summary>
     :zap: GitHub Stats
@@ -72,7 +72,6 @@
   <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sadman-Sakib2234&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
-
 
 
 
