@@ -76,8 +76,8 @@
 1. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
 2. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
 3. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
-4. ❗️ Opened issue [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
-5. 🎉 Merged PR [#1](https://github.com/Sadman-Sakib2234/snow-os/pull/1) in [Sadman-Sakib2234/snow-os](https://github.com/Sadman-Sakib2234/snow-os)
+4. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
+5. ❗️ Opened issue [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
 <!--END_SECTION:activity-->
 
 </details>
