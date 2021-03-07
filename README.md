@@ -77,7 +77,7 @@
 2. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
 3. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
 4. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
-5. ❗️ Opened issue [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
+5. 🗣 Commented on [#8](https://github.com/Absurdponcho/PonchoOS/issues/8) in [Absurdponcho/PonchoOS](https://github.com/Absurdponcho/PonchoOS)
 <!--END_SECTION:activity-->
 
 </details>
