@@ -87,7 +87,7 @@
   <summary>
     :zap: GitHub Stats
   </summary>
-  <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api/?username=Sadman-Sakib2234&theme=""&bg_color=000000/>
+  <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api/?username=Sadman-Sakib2234&theme=""&bg_color=121212/>
 
 </details>
 
