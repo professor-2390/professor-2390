@@ -87,7 +87,7 @@
   <summary>
     :zap: GitHub Stats
   </summary>
-  <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sadman-Sakib2234&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515/>
+  <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.codestackr.vercel.app/api/?username=Sadman-Sakib2234&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515/>
 
 </details>
 
