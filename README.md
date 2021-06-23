@@ -88,8 +88,6 @@
 </details>
 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadman-Sakib2234&repo=github-readme-stats"/>
-
 [instagram]: https://www.instagram.com/gamer_x122/
 [twitter]: https://twitter.com/SakibDev
 [lioke]: https://www.linkedin.com/in/sadman-sakib-a5a337204/
