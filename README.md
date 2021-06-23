@@ -83,7 +83,7 @@
   <summary>
     :zap: GitHub Stats
   </summary>
-  <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.vercel.app/api?username=Sadman-Sakib2234&theme=""&bg_color=DEG,000000,0a0a0a,/>
+  <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.vercel.app/api?username=Sadman-Sakib2234&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;"/>
 
 </details>
 
