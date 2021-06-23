@@ -70,11 +70,10 @@
 ➡️ [more blog posts...](https://dev.to/sadmansakib2234)
 
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
+### :zap: Recent GitHub Activity
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-</details>
+---
 
 <details>
   <summary>
