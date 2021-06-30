@@ -34,6 +34,8 @@
 
 <img align="left" alt="Unity" width="28px" src="https://img.icons8.com/nolan/64/unity.png"/>
 
+<img align="left" alt="flutter" width="28px" src="https://img.icons8.com/color/64/000000/flutter.png"/>
+
 <br/>
 <br/>
 
