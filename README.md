@@ -4,7 +4,7 @@
 
 ## I'm a Student, and Developer!!
 - 🔭 I'm currently working on discord bot development
-- 🌱 I’m currently learning discord js and jd4
+- 🌱 I’m currently learning discord js and jda4
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games like gta online and valorant
 
