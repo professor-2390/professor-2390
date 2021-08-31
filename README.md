@@ -3,10 +3,10 @@
 <p align="left"><img src="https://img.shields.io/twitter/follow/SakibDev?logo=Twitter&logoColor=%231DA1F2&style=for-the-badge"/> <img src="https://komarev.com/ghpvc/?username=sadman-sakib2234" alt="sadman" /> </p>
 
 ## I'm a Student, and Developer!!
-- 🔭 I'm currently working on personal projects
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm currently working on discord bot development
+- 🌱 I’m currently learning discord js and jd4
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games
+- ⚡ Fun fact: I love to play games like gta online and valorant
 
 ### 🧰 Languages and Tools:
 
