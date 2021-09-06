@@ -74,10 +74,10 @@
 ---
 ### :zap: Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js/issues/27) in [AlexzanderFlores/Worn-Off-Keys-Discord-Js](https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js)
-2. ❗️ Opened issue [#1](https://github.com/hasansiam45/resort-bd/issues/1) in [hasansiam45/resort-bd](https://github.com/hasansiam45/resort-bd)
-3. 💪 Opened PR [#3](https://github.com/HassProgrammer/HassProgrammer/pull/3) in [HassProgrammer/HassProgrammer](https://github.com/HassProgrammer/HassProgrammer)
-4. 💪 Opened PR [#2](https://github.com/HassProgrammer/HassProgrammer/pull/2) in [HassProgrammer/HassProgrammer](https://github.com/HassProgrammer/HassProgrammer)
+1. 🗣 Commented on [#1882](https://github.com/Automattic/node-canvas/issues/1882) in [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
+2. 🗣 Commented on [#27](https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js/issues/27) in [AlexzanderFlores/Worn-Off-Keys-Discord-Js](https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js)
+3. ❗️ Opened issue [#1](https://github.com/hasansiam45/resort-bd/issues/1) in [hasansiam45/resort-bd](https://github.com/hasansiam45/resort-bd)
+4. 💪 Opened PR [#3](https://github.com/HassProgrammer/HassProgrammer/pull/3) in [HassProgrammer/HassProgrammer](https://github.com/HassProgrammer/HassProgrammer)
 <!--END_SECTION:activity-->
 ---
 
