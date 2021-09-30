@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Sadman Sakib 
+# 👋 Hi there, Call me professor
 
-<p align="left"><img src="https://img.shields.io/twitter/follow/SakibDev?logo=Twitter&logoColor=%231DA1F2&style=for-the-badge"/> <img src="https://komarev.com/ghpvc/?username=sadman-sakib2234" alt="sadman" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=professor-2390" alt="professor-2390" /> </p>
 
 ## I'm a Student, and Developer!!
 - 🔭 I'm currently working on discord bot development
@@ -85,7 +85,7 @@
   <summary>
     :zap: GitHub Stats
   </summary>
-  <img align="left" alt="Sadman-Sakib2234's github stats" src="https://github-readme-stats.vercel.app/api?username=Sadman-Sakib2234&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;"/>
+  <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=professor-2390&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;"/>
 
 </details>
 
