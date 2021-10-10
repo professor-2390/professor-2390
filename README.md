@@ -88,7 +88,4 @@
 </details>
 
 
-[instagram]: https://www.instagram.com/gamer_x122/
-[twitter]: https://twitter.com/SakibDev
-[lioke]: https://www.linkedin.com/in/sadman-sakib-a5a337204/
-
+[instagram]: https://www.instagram.com/professor_2390/
