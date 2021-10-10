@@ -4,9 +4,9 @@
 
 ## I'm a Student, and Developer!!
 - 🔭 I'm currently working on discord bot development
-- 🌱 I’m currently learning discord js and jda4
+- 🌱 I’m currently learning discord js 13 and mongo db
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games like gta online and valorant
+- ⚡ Fun fact: I love to play games
 
 ### 🧰 Languages and Tools:
 
@@ -44,11 +44,6 @@
 <!--Instagram-->
 [<img align="left" alt="sadman | Instagram" width="35px" src="https://img.icons8.com/fluent/45/000000/instagram-new.png" />][instagram]
 
-<!--Twitter-->
-[<img align="left" alt="sadman | facebook" width="35px" src="https://img.icons8.com/doodle/45/000000/twitter.png" />][twitter]
-
-<!--Linkedin-->
-[<img align="left" alt="sadman | facebook" width="35px" src="https://img.icons8.com/doodle/45/000000/linkedin.png" />][lioke]
 
 <br />
 <br />
@@ -56,6 +51,8 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing-gold-psi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](https://open.spotify.com/user/184hzf7ou1s5973vd4voo60h7?si=e3610c6b75614519)
 
+### Discord Presence ^_^
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/628269010362040321)](https://discord.com/users/628269010362040321)
 
 
 ---
