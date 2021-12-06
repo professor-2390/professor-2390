@@ -30,12 +30,6 @@
 
 <img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="C#" width="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-
-<img align="left" alt="Unity" width="28px" src="https://img.icons8.com/nolan/64/unity.png"/>
-
-<img align="left" alt="flutter" width="28px" src="https://img.icons8.com/color/64/000000/flutter.png"/>
-
 <br/>
 <br/>
 
