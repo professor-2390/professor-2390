@@ -43,7 +43,7 @@
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-gold-psi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](https://open.spotify.com/user/184hzf7ou1s5973vd4voo60h7?si=e3610c6b75614519)
+[<img src="https://spotify-now-playing-gold-psi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="420" />](https://open.spotify.com/user/184hzf7ou1s5973vd4voo60h7?si=e3610c6b75614519)
 
 ### Discord Presence ^_^
 
