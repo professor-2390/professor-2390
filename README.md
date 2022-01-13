@@ -5,7 +5,7 @@
 ## I'm a Student, and Developer!!
 - 🔭 I'm currently working on discord bot development
 - 🌱 I’m currently learning discord js 13 and java
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
 ### 🧰 Languages and Tools:
