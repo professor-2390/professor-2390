@@ -1,14 +1,16 @@
-# 👋 Hi there, Call me professor
+# 👋 Hi there, Call me <strong>professor</strong>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=professor-2390" alt="professor-2390" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=professor-2390" alt="professor-2390" /> 
+<img src="https://img.shields.io/github/followers/professor-2390?label=follow&style=social" alt="professor-2390" /> 
+</p>
 
 ## I'm a Student, and Developer!!
-- 🔭 I'm currently working on discord bot development
-- 🌱 I’m currently learning discord js 13 and java
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games
+- 🔭 I'm presently operating on <strong>web development</strong>
+- 🌱 I’m presently gaining knowledge of <strong>next-js and typescript</strong>
+- 🥅 <strong>2022 Goals:</strong> Contribute greater to Open Source projects
+- ⚡ Fun fact: I like to play games & pay attention to music
 
-### 🧰 Languages and Tools:
+### 🧰 Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"/>
 
@@ -33,19 +35,22 @@
 <br/>
 <br/>
 
-### ✉️ Find me on:
+### 📞 Socials
 
 <!--Instagram-->
-[<img align="left" alt="sadman | Instagram" width="35px" src="https://img.icons8.com/fluent/45/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="professor | Instagram" width="35px" src="https://img.icons8.com/fluent/45/000000/instagram-new.png" />][instagram]
+
+<!--Twitter-->
+[<img align="left" alt="professor | Twitter" width="35px" src="https://img.icons8.com/fluent/45/000000/twitter.png" />][twitter]
 
 
 <br />
 <br />
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing
 [<img src="https://spotify-now-playing-gold-psi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="420" />](https://open.spotify.com/user/184hzf7ou1s5973vd4voo60h7?si=e3610c6b75614519)
 
-### Discord Presence ^_^
+### 🎈 Discord Presence 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/628269010362040321)](https://discord.com/users/628269010362040321)
 
@@ -54,14 +59,14 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Make a Realtime Smile Detector](https://dev.to/sadmansakib2234/realtime-smile-detector-299e)
-- [How to make a digital greeting clock using javascript](https://dev.to/sadmansakib2234/how-to-make-a-digital-greeting-clock-using-javascript-2dji)
-- [How to make a random password generator using javascript](https://dev.to/sadmansakib2234/how-to-make-a-random-password-generator-using-javascript-2bae)
-- [How to make a weather app in React using openweather api](https://dev.to/sadmansakib2234/how-to-make-a-weather-app-in-react-using-openweather-api-dif)
-- [Make a progress bar in terminal using python](https://dev.to/sadmansakib2234/make-a-progress-bar-in-terminal-using-python-fo8)
+- [How To Make a Realtime Smile Detector](https://dev.to/professor-2390/realtime-smile-detector-299e)
+- [How to make a digital greeting clock using javascript](https://dev.to/professor-2390/how-to-make-a-digital-greeting-clock-using-javascript-2dji)
+- [How to make a random password generator using javascript](https://dev.to/professor-2390/how-to-make-a-random-password-generator-using-javascript-2bae)
+- [How to make a weather app in React using openweather api](https://dev.to/professor-2390/how-to-make-a-weather-app-in-react-using-openweather-api-dif)
+- [Make a progress bar in terminal using python](https://dev.to/professor-2390/make-a-progress-bar-in-terminal-using-python-fo8)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/sadmansakib2234)
+➡️ [more blog posts...](https://dev.to/professor-2390)
 
 ---
 ### :zap: Recent GitHub Activity
@@ -77,9 +82,8 @@
   <summary>
     :zap: GitHub Stats
   </summary>
-  <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=professor-2390&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;"/>
-
+  <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=professor-2390&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:50%;"/>
 </details>
 
-
+[twitter]: https://twitter.com/professor2390
 [instagram]: https://www.instagram.com/professor_2390/
