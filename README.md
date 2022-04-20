@@ -78,12 +78,13 @@
 <!--END_SECTION:activity-->
 ---
 
-<details>
-  <summary>
-    :zap: GitHub Stats
-  </summary>
-  <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=professor-2390&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:50%;"/>
-</details>
+  
+
+  
+<img align="left" alt="Professors's Github Stats" src="https://github-readme-stats.vercel.app/api?username=professor-2390&&show_icons=true&theme=dark" width="50%" />
+<img align="right" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=professor-2390&theme=highcontrast" width="46%"/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=professor-2390&theme=xcode">
 
 [twitter]: https://twitter.com/professor2390
 [instagram]: https://www.instagram.com/professor_2390/
