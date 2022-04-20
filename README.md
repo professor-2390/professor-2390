@@ -78,13 +78,13 @@
 <!--END_SECTION:activity-->
 ---
 
-  
+<h2 align="left">🥇 Github Stats</h2>  
 
-  
 <img align="left" alt="Professors's Github Stats" src="https://github-readme-stats.vercel.app/api?username=professor-2390&&show_icons=true&theme=dark" width="50%" />
 <img align="right" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=professor-2390&theme=highcontrast" width="46%"/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=professor-2390&theme=xcode">
+
 
 [twitter]: https://twitter.com/professor2390
 [instagram]: https://www.instagram.com/professor_2390/
