@@ -1,6 +1,5 @@
 <img src="http://p.favim.com/orig/2018/10/08/header-aesthetic-black-Favim.com-6376209.jpg" width="100%"/>
 
-<br/>
 
 <h1 align="center"> Hi There 👋🏻</h1>
 
