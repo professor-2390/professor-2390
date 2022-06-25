@@ -43,6 +43,7 @@ Hello! I'm Professor . A Programmer & A Full Stack Developer .
 <img align="left" alt="Typescript" width="28px" src="https://img.icons8.com/color/344/typescript.png" />
 
 <br/>
+<br/>
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
