@@ -30,6 +30,8 @@ Hello! I'm Professor . A Programmer & A Full Stack Developer .
 <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" />
 <a href="https://reactjs.org/" target="_blank"> <img class="icon" align="left" alt="React" width="32px" src="./src/icons/react.svg" />
 <a href="https://tailwindcss.com/" target="_blank"> <img class="icon" align="left" alt="Tailwind" width="32px" src="./src/icons/tailwindcss.svg" />
+
+<br/>
 <br/>
 
 ### Recent GitHub Activity
