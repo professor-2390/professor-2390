@@ -1,5 +1,4 @@
 <img src="./src/Banner-Ultrawide.jpg" style="box-shadow: 3px 3px 10px #00000035">
-<br/>
 
 <h1 align="center"> Hey There 👋🏻</h1>
 
