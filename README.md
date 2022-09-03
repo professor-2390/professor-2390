@@ -38,6 +38,10 @@ Hello! I'm Professor . A Programmer & A Full Stack Developer .
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/professor-2390/controid-bot/pull/2) in [professor-2390/controid-bot](https://github.com/professor-2390/controid-bot)
+2. 💪 Opened PR [#2](https://github.com/professor-2390/controid-bot/pull/2) in [professor-2390/controid-bot](https://github.com/professor-2390/controid-bot)
+3. 🎉 Merged PR [#1](https://github.com/professor-2390/controid-bot/pull/1) in [professor-2390/controid-bot](https://github.com/professor-2390/controid-bot)
+4. 💪 Opened PR [#1](https://github.com/professor-2390/controid-bot/pull/1) in [professor-2390/controid-bot](https://github.com/professor-2390/controid-bot)
 <!--END_SECTION:activity-->
 
 <br/>
