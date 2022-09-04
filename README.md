@@ -13,10 +13,10 @@ Hello! I'm Professor . A Programmer & A Full Stack Developer .
 
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/628269010362040321?bg=00000000" />
 
-- 🔭 I'm presently operating on web development
-- 🌱 I’m presently gaining knowledge of web3 and discord.js
-- 🥅 2022 Goals: Contribute greater to Open Source projects
-- ⚡ Fun fact: I like to play games & pay attention to music
+- 🔭 **I'm presently** operating on web development
+- 🌱 **I’m presently** gaining knowledge of tauri.js and discord.js
+- 🥅 **2022 Goals:** Contribute greater to Open Source projects
+- ⚡ **Fun fact:** I like to play games & pay attention to music
 
 ### Languages and Tools
 
