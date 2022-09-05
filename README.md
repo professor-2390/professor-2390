@@ -47,8 +47,10 @@ Hello! I'm Professor . A Programmer & A Full Stack Developer .
 
 <br/>
 
-[<img align="left" alt="Professor | Discord" width="28px" src="./src/icons/discord.svg" />][discord]
+[<img align="left" alt="Professor | Discord" width="32px" src="./src/icons/discord.svg" />][discord]
+[<img align="left" alt="Professor | Discord" width="32px" src="./src/icons/github.svg" />][github]
 
 <!-- Links -->
 
 [discord]: https://discordapp.com/users/628269010362040321
+[github]: https://github.com/professor-2390/
