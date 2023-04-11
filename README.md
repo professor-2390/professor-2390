@@ -1,48 +1,38 @@
 <img src="./src/Banner-Ultrawide.jpg" style="box-shadow: 3px 3px 10px #00000035">
 
-<h1 align="center"> Hey There 👋🏻</h1>
+# Hey There 👋🏻
 
 ```js
-
 <Quick Introduction>
 
-Hello! I'm Professor . A Programmer & A Full Stack Developer .
-
+Greetings! My name is Professor and I'm a skilled Programmer and Full Stack Developer.
 ```
 
 
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/628269010362040321?bg=00000000" />
 
-- 🔭 **I'm presently** operating on web development
-- 🌱 **I’m presently** gaining knowledge of tauri.js and discord.js
-- 🥅 **2022 Goals:** Contribute greater to Open Source projects
-- ⚡ **Fun fact:** I like to play games & pay attention to music
+- 🔭 **Currently,** I am engrossed in the realm of web development.
+- 🌱 **Presently,** I am expanding my knowledge in discord.js, machine learning next.js.
+- 🥅 **Goals for 2023:** To make significant contributions towards Open Source projects
+- ⚡ **Fun fact:** In my leisure time, I enjoy playing chess and indulging in music.
 
-### Languages and Tools
+### Programming Languages and Tools
 
-<a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="./src/icons/vscode.svg" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/javascript.svg" />
-<a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/typescript.svg" />
-<a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" />
-<a href="https://nextjs.org/" target="_blank"> <img class="icon" align="left" alt="Next.js" width="32px" src="./src/icons/nextjs.svg" />
-<br/>
-<br/>
-<a href="https://www.mongodb.com/" target="_blank"> <img class="icon" align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" />
-<a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="32px" src="./src/icons/git.svg"/>
-<a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" />
-<a href="https://reactjs.org/" target="_blank"> <img class="icon" align="left" alt="React" width="32px" src="./src/icons/react.svg" />
-<a href="https://tailwindcss.com/" target="_blank"> <img class="icon" align="left" alt="Tailwind" width="32px" src="./src/icons/tailwindcss.svg" />
-
-<br/>
+<a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="./src/icons/vscode.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="JavaScript" width="32px" src="./src/icons/javascript.svg" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="TypeScript" width="32px" src="./src/icons/typescript.svg" /></a>
+<a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" /></a>
+<a href="https://nextjs.org/" target="_blank"><img class="icon" align="left" alt="Next.js" width="32px" src="./src/icons/nextjs.svg" /></a>
+<br/><br/>
+<a href="https://www.mongodb.com/" target="_blank"><img class="icon" align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" /></a>
+<a href="https://git-scm.com/" target="_blank"><img class="icon" align="left" alt="Git" width="32px" src="./src/icons/git.svg"/></a>
+<a href="https://github.com/" target="_blank"><img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" /></a>
+<a href="https://reactjs.org/" target="_blank"><img class="icon" align="left" alt="React" width="32px" src="./src/icons/react.svg" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img class="icon" align="left" alt="Tailwind CSS" width="32px" src="./src/icons/tailwindcss.svg" /></a>
 <br/>
 
-### Recent GitHub Activity
-
+### Latest Activity on GitHub
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/professor-2390/controid-bot/pull/2) in [professor-2390/controid-bot](https://github.com/professor-2390/controid-bot)
-2. 💪 Opened PR [#2](https://github.com/professor-2390/controid-bot/pull/2) in [professor-2390/controid-bot](https://github.com/professor-2390/controid-bot)
-3. 🎉 Merged PR [#1](https://github.com/professor-2390/controid-bot/pull/1) in [professor-2390/controid-bot](https://github.com/professor-2390/controid-bot)
-4. 💪 Opened PR [#1](https://github.com/professor-2390/controid-bot/pull/1) in [professor-2390/controid-bot](https://github.com/professor-2390/controid-bot)
 <!--END_SECTION:activity-->
 
 <br/>
