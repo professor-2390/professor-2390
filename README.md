@@ -32,8 +32,9 @@ Greetings! My name is Professor and I'm a skilled Programmer and Full Stack Deve
 <br/>
 
 ### Latest Activity on GitHub
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <br/>
 
