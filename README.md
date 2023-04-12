@@ -8,7 +8,6 @@
 Greetings! My name is Professor and I'm a skilled Programmer and Full Stack Developer.
 ```
 
-
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/628269010362040321?bg=00000000" />
 
 - 🔭 **Currently,** I am engrossed in the realm of web development.
@@ -37,6 +36,9 @@ Greetings! My name is Professor and I'm a skilled Programmer and Full Stack Deve
 <!--RECENT_ACTIVITY:last_update-->
 
 <br/>
+
+### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dark#gh-dark-mode-only">
 
 [<img align="left" alt="Professor | Discord" width="32px" src="./src/icons/discord.svg" />][discord]
 [<img align="left" alt="Professor | Discord" width="32px" src="./src/icons/github.svg" />][github]
