@@ -43,8 +43,6 @@ Greetings! My name is Professor and I'm a skilled Programmer and Full Stack Deve
 Last Updated: Sunday, April 16th, 2023, 7:34:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<br/>
-
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dark#gh-dark-mode-only">
 
