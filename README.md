@@ -38,9 +38,10 @@ Greetings! As a tech-savvy fullstack developer, I enjoy unraveling complex probl
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dark#gh-dark-mode-only">
  <img align="right" src="https://lanyard-profile-readme.vercel.app/api/628269010362040321?bg=00000000" />
- </details>
+</details>
+ 
 <br/>
-
+<br/>
 <div align="right">
   <a href="https://discordapp.com/users/628269010362040321">
   <img alt="Professor | Discord" width="36px" src="./src/icons/discord.svg" />
