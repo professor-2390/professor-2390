@@ -1,21 +1,15 @@
 <img src="./src/Banner-Ultrawide.jpg" style="box-shadow: 3px 3px 10px #00000035">
 
 # Hey There 👋🏻
+Greetings! As a tech-savvy fullstack developer, I enjoy unraveling complex problems with precision. Alongside my passion for code, I savor the rich indulgence of coffee.
 
-```js
-<Quick Introduction>
-
-Greetings! My name is Professor and I'm a skilled Programmer and Full Stack Developer.
-```
-
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/628269010362040321?bg=00000000" />
-
+### Here are some highlights about me:
 - 🔭 **Currently,** I am engrossed in the realm of web development.
 - 🌱 **Presently,** I am expanding my knowledge in discord.js, machine learning next.js.
 - 🥅 **Goals for 2023:** To make significant contributions towards Open Source projects
 - ⚡ **Fun fact:** In my leisure time, I enjoy playing chess and indulging in music.
 
-### Programming Languages and Tools
+### Skills and Technologies:
 
 <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="./src/icons/vscode.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="JavaScript" width="32px" src="./src/icons/javascript.svg" /></a>
@@ -39,17 +33,18 @@ Greetings! My name is Professor and I'm a skilled Programmer and Full Stack Deve
 5. 💪 Opened PR [#5](https://github.com/BlurpleSaturn/leaf-languages/pull/5) in [BlurpleSaturn/leaf-languages](https://github.com/BlurpleSaturn/leaf-languages)
 <!--RECENT_ACTIVITY:end-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 7th, 2023, 2:35:00 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+<details>
+  <summary><b>⚡ Status</b></summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dark#gh-dark-mode-only">
+ <img align="right" src="https://lanyard-profile-readme.vercel.app/api/628269010362040321?bg=00000000" />
+ </details>
+<br/>
 
-### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dark#gh-dark-mode-only">
-
-[<img align="left" alt="Professor | Discord" width="32px" src="./src/icons/discord.svg" />][discord]
-[<img align="left" alt="Professor | Discord" width="32px" src="./src/icons/github.svg" />][github]
-
-<!-- Links -->
+<div align="right">
+  [<img alt="Professor | Discord" width="36px" src="./src/icons/discord.svg" />][discord]
+  [<img alt="Professor | Github" width="36px" src="./src/icons/github.svg" />][github]
+</div>
 
 [discord]: https://discordapp.com/users/628269010362040321
 [github]: https://github.com/professor-2390/
