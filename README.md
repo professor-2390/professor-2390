@@ -42,9 +42,10 @@ Greetings! As a tech-savvy fullstack developer, I enjoy unraveling complex probl
 <br/>
 
 <div align="right">
-  [<img alt="Professor | Discord" width="36px" src="./src/icons/discord.svg" />][discord]
-  [<img alt="Professor | Github" width="36px" src="./src/icons/github.svg" />][github]
+  <a href="https://discordapp.com/users/628269010362040321">
+  <img alt="Professor | Discord" width="36px" src="./src/icons/discord.svg" />
+  </a>
+  <a href="https://github.com/professor-2390/">
+  <img alt="Professor | Discord" width="36px" src="./src/icons/github.svg" />
+  </a>
 </div>
-
-[discord]: https://discordapp.com/users/628269010362040321
-[github]: https://github.com/professor-2390/
