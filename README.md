@@ -4,10 +4,10 @@
 Greetings! As a tech-savvy fullstack developer, I enjoy unraveling complex problems with precision. Alongside my passion for code, I savor the rich indulgence of coffee.
 
 ### Here are some highlights about me:
-- 🔭 **Currently,** I am engrossed in the realm of web development.
-- 🌱 **Presently,** I am expanding my knowledge in discord.js, machine learning next.js.
-- 🥅 **Goals for 2023:** To make significant contributions towards Open Source projects
-- ⚡ **Fun fact:** In my leisure time, I enjoy playing chess and indulging in music.
+- 🔭 **Current Focus:** I am currently deeply engaged in the field of web development.
+- 🌱 **Learning Journey:** I am actively expanding my knowledge in machine learning, web architecture, and exploring Laravel.
+- 🥅 **2023 Goals:** My goals for this year are to make significant contributions to Open Source projects.
+- ⚡ **Fun Fact:** In my free time, you can often find me engaged in a game of chess, appreciating music, and relishing a delicious cup of coffee.
 
 ### Skills and Technologies:
 
@@ -44,9 +44,9 @@ Greetings! As a tech-savvy fullstack developer, I enjoy unraveling complex probl
 <br/>
 <div align="right">
   <a href="https://discordapp.com/users/628269010362040321">
-  <img alt="Professor | Discord" width="36px" src="./src/icons/discord.svg" />
+  <img alt="Professor | Discord" width="40px" src="./src/icons/discord.svg" />
   </a>
   <a href="https://github.com/professor-2390/">
-  <img alt="Professor | Discord" width="36px" src="./src/icons/github.svg" />
+  <img alt="Professor | Discord" width="40px" src="./src/icons/github.svg" />
   </a>
 </div>
