@@ -38,19 +38,19 @@ One of my favorite pastimes is playing chess, a game that challenges my strategi
 <!--RECENT_ACTIVITY:end-->
 
 <details>
-  <summary><b>⚡ Status</b></summary>
+  <summary><b>⚡ GitHub and Discord Stats</b></summary>
   <br/>
- <img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dark#gh-dark-mode-only" width="40%">
- <img align="right" src="https://badge.ducko.dev/api/?id=628269010362040321"  width="50%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dark#gh-dark-mode-only" alt="Github Stats" width="45%">
+ <img align="right" src="https://badge.ducko.dev/api/?id=628269010362040321"  width="45%" alt="Discord Status"/>
 </details>
  
 <br/>
 <br/>
 <div align="right">
   <a href="https://discordapp.com/users/628269010362040321">
-  <img alt="Professor | Discord" width="40px" src="./src/icons/discord.svg" />
+  <img alt="Professor | Discord" width="36px" src="./src/icons/discord.svg" />
   </a>
   <a href="https://github.com/professor-2390/">
-  <img alt="Professor | Discord" width="40px" src="./src/icons/github.svg" />
+  <img alt="Professor | Discord" width="36px" src="./src/icons/github.svg" />
   </a>
 </div>
