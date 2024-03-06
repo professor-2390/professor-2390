@@ -28,6 +28,8 @@ When I'm not working on coding projects, I like to unwind with a game of chess. 
 <a href="https://tailwindcss.com/" target="_blank"><img class="icon" align="left" alt="Tailwind CSS" width="35px" src="./assets/icons/tailwindcss.svg" /></a>
 <br/>
 
+<br/>
+
 ### **Currently Listening on Spotify:**
 
 <img src="https://novatorem-seven-ashen.vercel.app/api/spotify" alt="Spotify Playing" width="365" />
@@ -41,8 +43,8 @@ When I'm not working on coding projects, I like to unwind with a game of chess. 
 <details>
   <summary><b>⚡ GitHub Statistics</b></summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dracula#gh-dark-mode-only" alt="Github Stats" width="42%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=professor-2390&theme=dracula&mode=weekly" width="45%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dracula#gh-dark-mode-only" alt="Github Stats" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=professor-2390&theme=dracula&mode=weekly" width="50%" alt="GitHub Streak">
 
 </details>
 
