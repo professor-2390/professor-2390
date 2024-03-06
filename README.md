@@ -1,56 +1,61 @@
-<img src="./src/Banner-Ultrawide.jpg" style="box-shadow: 3px 3px 10px #00000035">
+<img src="./assets/Banner-Ultrawide.jpg" style="box-shadow: 3px 3px 10px #00000035">
 
 # Hey There 👋🏻
-Greetings! I'm a tech-savvy full-stack developer who thrives on unraveling complex problems with precision. I find great satisfaction in applying my skills and knowledge to tackle intricate coding challenges and deliver innovative solutions.
 
-But it's not all about code for me. I have a multifaceted personality, and one of my other great passions in life is the rich indulgence of coffee. I appreciate the art of brewing and savoring a perfectly crafted cup of coffee.
+Hey there! I'm a full-stack developer who loves diving into new projects and finding innovative solutions. Coding is my passion, and I enjoy the process of building something from scratch. You can explore further details about it on my blog by visiting <a href="https://professor5166.netlify.app/">my site</a>
 
-One of my favorite pastimes is playing chess, a game that challenges my strategic thinking and provides a welcome break from the digital realm. It stimulates my mind and allows me to disconnect from screens while exercising my mental faculties.
+When I'm not working on coding projects, I like to unwind with a game of chess. It's a great way to keep my strategic thinking sharp and give my brain a workout. Plus, it's nice to step away from the screen for a bit and stretch my mental muscles.
 
 ### **Here are some highlights about me:**
-- 🔭 **Current Focus:** I am currently deeply engaged in the field of web development.
-- 🌱 **Learning Journey:** I am actively expanding my knowledge in machine learning, web architecture, and exploring Laravel.
-- 🥅 **2023 Goals:** My goals for this year are to make significant contributions to Open Source projects.
-- ⚡ **Fun Fact:** In my free time, you can often find me engaged in a game of chess, appreciating music, and relishing a delicious cup of coffee.
+
+- 🔭 **Current Focus:** I am currently expanding my knowledge beyond the field of web development
+- 🌱 **Learning Journey:** Always exploring new things!
+- 🥅 **2024 Goals:** My goal for this year is to make significant contributions to Open Source projects.
+- ⚡ **Fun Fact:** I'm also a 1900-rated chess player and a proud Linux user!
 
 ### **Skills and Technologies:**
 
-<a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="./src/icons/vscode.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="JavaScript" width="32px" src="./src/icons/javascript.svg" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="TypeScript" width="32px" src="./src/icons/typescript.svg" /></a>
-<a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" /></a>
-<a href="https://nextjs.org/" target="_blank"><img class="icon" align="left" alt="Next.js" width="32px" src="./src/icons/nextjs.svg" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="35px" src="./assets/icons/vscode.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="JavaScript" width="35px" src="./assets/icons/javascript.svg" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="TypeScript" width="35px" src="./assets/icons/typescript.svg" /></a>
+<a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="35px" src="./assets/icons/nodejs.svg" /></a>
+<a href="https://nextjs.org/" target="_blank"><img class="icon" align="left" alt="Next.js" width="35px" src="./assets/icons/nextjs.svg" /></a>
 <br/><br/>
-<a href="https://www.mongodb.com/" target="_blank"><img class="icon" align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" /></a>
-<a href="https://git-scm.com/" target="_blank"><img class="icon" align="left" alt="Git" width="32px" src="./src/icons/git.svg"/></a>
-<a href="https://github.com/" target="_blank"><img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" /></a>
-<a href="https://reactjs.org/" target="_blank"><img class="icon" align="left" alt="React" width="32px" src="./src/icons/react.svg" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img class="icon" align="left" alt="Tailwind CSS" width="32px" src="./src/icons/tailwindcss.svg" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img class="icon" align="left" alt="MongoDB" width="35px" src="./assets/icons/mongodb.svg" /></a>
+<a href="https://git-scm.com/" target="_blank"><img class="icon" align="left" alt="Git" width="35px" src="./assets/icons/git.svg"/></a>
+<a href="https://github.com/" target="_blank"><img class="icon" align="left" alt="GitHub" width="35px" src="./assets/icons/github.svg" /></a>
+<a href="https://reactjs.org/" target="_blank"><img class="icon" align="left" alt="React" width="35px" src="./assets/icons/react.svg" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img class="icon" align="left" alt="Tailwind CSS" width="35px" src="./assets/icons/tailwindcss.svg" /></a>
 <br/>
 
+### **Currently Listening on Spotify:**
+
+<img src="https://novatorem-seven-ashen.vercel.app/api/spotify" alt="Spotify Playing" width="365" />
+
 ### **Latest Activity on GitHub:**
+
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/SaturnsDevelopment/.github/pull/1) in [SaturnsDevelopment/.github](https://github.com/SaturnsDevelopment/.github)
-2. 🔱 Forked [professor-2390/.github](https://github.com/professor-2390/.github) from [SaturnsDevelopment/.github](https://github.com/SaturnsDevelopment/.github)
-3. 🔱 Forked [professor-2390/discordjs-verification-system](https://github.com/professor-2390/discordjs-verification-system) from [SaturnsDevelopment/discordjs-verification-system](https://github.com/SaturnsDevelopment/discordjs-verification-system)
-4. 🔱 Forked [professor-2390/Red-DiscordBot](https://github.com/professor-2390/Red-DiscordBot) from [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-5. 💪 Opened PR [#5](https://github.com/BlurpleSaturn/leaf-languages/pull/5) in [BlurpleSaturn/leaf-languages](https://github.com/BlurpleSaturn/leaf-languages)
+
 <!--RECENT_ACTIVITY:end-->
 
 <details>
-  <summary><b>⚡ GitHub and Discord Stats</b></summary>
+  <summary><b>⚡ GitHub Statistics</b></summary>
   <br/>
- <img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dark#gh-dark-mode-only" alt="Github Stats" width="45%">
- <img align="right" src="https://badge.ducko.dev/api/?id=628269010362040321"  width="45%" alt="Discord Status"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=professor-2390&show_icons=true&theme=dracula#gh-dark-mode-only" alt="Github Stats" width="42%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=professor-2390&theme=dracula&mode=weekly" width="45%" alt="GitHub Streak">
+
 </details>
- 
+
+<!-- Footer Connections  -->
 <br/>
 <br/>
+
+---
 <div align="right">
-  <a href="https://discordapp.com/users/628269010362040321">
-  <img alt="Professor | Discord" width="36px" src="./src/icons/discord.svg" />
-  </a>
-  <a href="https://github.com/professor-2390/">
-  <img alt="Professor | Discord" width="36px" src="./src/icons/github.svg" />
-  </a>
+ <a href="https://discordapp.com/users/628269010362040321">
+    <img alt="Professor | Discord" width="36px" src="./assets/icons/discord.svg" />
+ </a>
+ <a href="https://github.com/professor-2390/">
+    <img alt="Professor | Github" width="36px" src="./assets/icons/github.svg" />
+ </a>
 </div>
