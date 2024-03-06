@@ -1,0 +1,22 @@
+name: Update Year
+
+on:
+  schedule:
+    - cron: "0 0 1 1 *" # Runs annually on January 1st at midnight UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Year
+        run: |
+          sed -i "s/🥅 **[0-9]* Goals:**/🥅 **$(date +'%Y') Goals:**/" README.md
+          git config --local user.email "action@github.com"
+          git config -l
+          git add README.md
+          git commit -m "Auto-update year in README.md" -a
+          git push
